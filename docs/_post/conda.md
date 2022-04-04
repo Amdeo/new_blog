@@ -8,9 +8,3 @@ tags:
   - 
 ---
 
-
-
-```
-conda create -n <环境名> --no-default-package python=3.9
-```
-
