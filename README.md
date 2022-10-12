@@ -7,7 +7,7 @@
 > 本文只是简易文档，详细文档见 [https://vdoing-template.u2sb.com](https://vdoing-template.u2sb.com)
 > 本项目仍在测试阶段，如遇到问题，请及时[反馈](https://github.com/u2sb/vuepress-theme-vdoing-template/issues)
 
-## 项目基础
+## 项目基础.....
 
 - 默认包管理工具: [yarn 1](https://classic.yarnpkg.com)
 - 默认包安装镜像：[npmmirror 中国镜像站](https://npmmirror.com)
